@@ -1,0 +1,38 @@
+VBA :visual basic application 
+    
+Rules:
+	comment :comment line is ignored by compiler . it is useed for understanding  
+		    'hello comment line 
+			compiler : Compiler is a translator 
+		
+	variabale :variable is a memory location  where we will can stroe our value.
+		
+			define a variable 
+			
+			Dim variableName(VariableName define by user choise )
+				
+				Dim x 'Here x is a variable/memory location 
+				
+				'Store value on variabale x here 10 is a value 
+				x=10
+				
+				
+	value/data type 
+				
+				Number 
+					integer (0-9)   234,23423,4324231,9
+					  Dim x as integer
+					float (0.0-9.9) 1.1,121.1,34123.1
+					 Dim x as a float
+					double(0.00 -9.99) 12321.12,32432.2323
+					 Dim x as double
+				string 
+				  char  ' single letter'/"single letter"  'a','2'
+				  string ' More then one letter'/"More then one letter" 'hello' 'aap51'
+				  
+				  Dim x as string
+				  
+				  
+	Print on scren 
+
+			MsgBox("Hello Parash")
