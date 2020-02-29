@@ -1,0 +1,15 @@
+english  language     ===========  Machin Language(0,1)
+
+vba					Translator    0,1
+						=>compiler  :Read all file at a time and given information(Error/Warning/Info)
+						=>interprator : Line By Line  check and throw information
+						
+						Interpretor 
+						
+						
+
+MsgBox()
+Cells(rowIndex,ColumnIndex).value=value
+value=Cells(rowIndex,ColumnIndex).value
+InputBox()
+						
