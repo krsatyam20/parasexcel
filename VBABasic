@@ -36,3 +36,55 @@ Rules:
 	Print on scren 
 
 			MsgBox("Hello Parash")
+			
+			
+Loop :Repetaion of work 
+			
+		For
+		While
+		Do while
+		
+		Do Until While
+		Foreach
+		
+
+
+
+
+Function :Function is a block
+		system define
+			ex: sum()
+				average()
+				
+		user define
+			Created by user 
+			
+			
+					=>no arguments no return
+					=>no arguments with return
+					=>with arguments no return
+					=>with arguments with return
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+
+
+
+
+
+			
