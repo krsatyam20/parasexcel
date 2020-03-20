@@ -1,0 +1,27 @@
+=> comment
+=>dim
+=>variable 
+=>msgbox()
+=>inputbox
+=>airthmetic operator(+ - /)
+=>conditional operator/control stetment 
+	if
+	if else
+	loop
+		for
+		while
+		do while
+=>function 
+	no argument no return
+	no argument with return
+	with argument with return
+	with argument no return
+
+=>cells()
+
+=>Get value from excel sheet
+=> Set value in Excel sheet
+=>range
+=> excel function  using in vba 
+
+
